@@ -1,0 +1,31 @@
+2020-03-09 21:28:20 DEBUG AbstractFactoryPatternExample:11 - Enter the name of Bank from where you want to take loan amount: 
+2020-03-09 21:28:24 DEBUG AbstractFactoryPatternExample:14 - Enter the type of loan e.g. home loan or business loan or education loan : 
+2020-03-09 21:28:27 DEBUG AbstractFactoryPatternExample:19 - Enter the interest rate for  HDFC BANK. :
+2020-03-09 21:28:31 DEBUG AbstractFactoryPatternExample:22 - Enter the loan amount you want to take: 
+2020-03-09 21:28:35 DEBUG AbstractFactoryPatternExample:25 - Enter the number of years to pay your entire loan amount: 
+2020-03-09 21:28:37 DEBUG AbstractFactoryPatternExample:28 - you are taking the loan from HDFC BANK.
+2020-03-09 21:28:37 DEBUG Loan:19 - your monthly EMI is 4021.376912584405. for the amount 90000.0. you have borrowed
+
+
+2020-03-09 21:29:13 DEBUG Builder:17 - Builder constructed: builderpattern.House@365c30cc.
+
+
+2020-03-09 21:29:28 DEBUG GenerateBill:11 - Enter the name of plan for which the bill will be generated: 
+2020-03-09 21:29:58 DEBUG GenerateBill:15 - Enter the number of units for bill will be calculated: 
+2020-03-09 21:30:06 DEBUG GenerateBill:20 - Bill amount for commercialplan. of 500.units is: 
+2020-03-09 21:30:06 DEBUG Plan:11 - 3750.0
+
+
+2020-03-09 21:30:49 DEBUG PrototypeDemo:13 - Enter Employee Id: 
+2020-03-09 21:31:08 DEBUG PrototypeDemo:16 - Enter Employee Name: 
+2020-03-09 21:31:14 DEBUG PrototypeDemo:19 - Enter Employee Designation: 
+2020-03-09 21:31:24 DEBUG PrototypeDemo:22 - Enter Employee Address: 
+2020-03-09 21:31:32 DEBUG PrototypeDemo:25 - Enter Employee Salary: 
+2020-03-09 21:31:36 DEBUG EmployeeRecord:14 -    Employee Records of Oracle Corporation 
+2020-03-09 21:31:36 DEBUG EmployeeRecord:15 - ---------------------------------------------
+2020-03-09 21:31:36 DEBUG EmployeeRecord:16 - Eid	Ename	Edesignation	Esalary		Eaddress
+2020-03-09 21:31:36 DEBUG EmployeeRecord:32 - 101.	nagalakshmi.	softwareengineer.	80000.0.	new delhi.	
+2020-03-09 21:31:36 DEBUG EmployeeRecord:14 -    Employee Records of Oracle Corporation 
+2020-03-09 21:31:36 DEBUG EmployeeRecord:15 - ---------------------------------------------
+2020-03-09 21:31:36 DEBUG EmployeeRecord:16 - Eid	Ename	Edesignation	Esalary		Eaddress
+2020-03-09 21:31:36 DEBUG EmployeeRecord:32 - 101.	nagalakshmi.	softwareengineer.	80000.0.	new delhi.	
